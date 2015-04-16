@@ -1,6 +1,5 @@
 # quickFrameRate
 quickly change FPS in after effects
-http://ww3.sinaimg.cn/bmiddle/66e22e28gw1er7ubndi29g20c8070wh5.gif
 
 [![](http://ww3.sinaimg.cn/bmiddle/66e22e28gw1er7ubndi29g20c8070wh5.gif)](http://weibo.com/songz)
 
